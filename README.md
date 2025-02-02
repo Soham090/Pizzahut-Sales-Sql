@@ -1,4 +1,4 @@
-# Pizzahut Sales Analysis SQL Project.
+# Pizzahut Sales Analysis SQL Project 🍕.
 
 ## Project Overview
 
